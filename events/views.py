@@ -50,7 +50,7 @@ def send_msg(response_msg):
     # after the creation of response_msg dict (see line 41)
     client = slack.WebClient(token=settings.BOT_USER_ACCESS_TOKEN)
     client.chat_postMessage(
-        channel='sandbox',
+        channel='v2frontend',
         blocks=[
                 {
             "type": "section",
