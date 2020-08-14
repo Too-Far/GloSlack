@@ -29,7 +29,7 @@ SECRET_KEY = '#!+k1i1@@k0cft&(294!p#oin5s1y%lpmujqx)o+w&#c=t*$&#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://glo-slack-backend.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 # SLACK CREDENTIALS=========================================================
 #! Make sure to switch over to .env!!!!!!!!!!!!!!!!
 # SLACK_CLIENT_ID = os.getenv.SLACK_CLIENT_ID
