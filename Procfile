@@ -1,0 +1,1 @@
+web: gunicorn glo_slack_backend.wsgi --log-file -
