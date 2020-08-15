@@ -1,11 +1,11 @@
 # GloSlack
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
+<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Too-far/GloSlack)
 ![GitHub contributors](https://img.shields.io/github/contributors/Too-far/GloSlack)
 ![GitHub stars](https://img.shields.io/github/stars/Too-far/GloSlack?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Too-far/GloSlack?style=social)
-
+--->
 GloSlack is a Tool that allows Users of Slack and Glo Boards to have messages sent directly to slack for changes in the GloBoard boards.
 
 This was made to replace the no longer maintained Flo app.
